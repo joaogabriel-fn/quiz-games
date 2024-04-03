@@ -139,6 +139,10 @@ progress {
   float: right;
 }
 
+ul {
+  list-style: none;
+}
+
 .options {
   display: flex;
   flex-direction: column;
